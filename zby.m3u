@@ -8,8 +8,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV-5 体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV-5+ 体育赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png",CCTV-6 电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png",CCTV-7 国防军事
@@ -34,6 +32,22 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png",CCTV-17 农业农村
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV-5+ 体育赛事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CETV1.png",CETV-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CETV2.png",CETV-2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CETV4.png",CETV-4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png",河南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/BTV纪实.png",BTV纪实
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png",安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png",兵团卫视
@@ -42,14 +56,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png",卡酷少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/BTV纪实.png",BTV纪实
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CETV1.png",CETV-1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CETV2.png",CETV-2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CETV4.png",CETV-4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png",重庆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视
@@ -68,12 +74,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png",河南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png",湖北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png",江西卫视
@@ -112,5 +114,3 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png",云南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
