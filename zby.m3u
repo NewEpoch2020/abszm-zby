@@ -283,7 +283,15 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-name="三立新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721173220819747_86.png" group-title="其它频道",三立新聞
 https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="其它频道",BBC
+https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-name="NewsmaxTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="其它频道",NewsmaxTV
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WrmeIco.png" group-title="其它频道",CNN
+https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="其它频道",FOX
+https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/history.png" group-title="其它频道",History
+https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="其它频道",NHK World Premium
 https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
